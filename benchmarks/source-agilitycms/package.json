@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@agility/content-fetch": "^0.8.2",
-    "@agility/content-management": "^0.1.5",
+    "@agility/content-management": "^0.3.0",
     "@agility/gatsby-source-agilitycms": "^1.5.0",
     "async": "^3.2.0",
     "dotenv": "^8.1.0",
