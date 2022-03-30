@@ -7,7 +7,7 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "@gatsbyjs/webpack-hot-middleware": "^2.25.2",
+    "@gatsbyjs/webpack-hot-middleware": "^2.25.3",
     "@prefresh/babel-plugin": "^0.4.1",
     "@prefresh/webpack": "^3.2.2"
   },
