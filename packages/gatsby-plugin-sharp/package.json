@@ -15,7 +15,7 @@
     "gatsby-core-utils": "^2.8.0-next.0",
     "gatsby-telemetry": "^2.8.0-next.0",
     "got": "^10.7.0",
-    "imagemin": "^7.0.1",
+    "imagemin": "^8.0.1",
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-pngquant": "^9.0.1",
     "lodash": "^4.17.21",
