@@ -36,7 +36,7 @@
     "got": "^11.7.0",
     "graphql-query-compress": "^1.2.2",
     "lodash": "^4.17.21",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.2.10",
     "p-queue": "^6.3.0",
     "read-chunk": "^3.2.0",
     "replaceall": "^0.1.6",
