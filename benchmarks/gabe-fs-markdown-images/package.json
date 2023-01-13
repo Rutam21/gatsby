@@ -33,7 +33,7 @@
     "gatsby-plugin-image": "*",
     "gatsby-plugin-sharp": "2.13.0-next.0-dev-1609845921133",
     "gatsby-source-filesystem": "^2",
-    "gatsby-transformer-remark": "^2",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "2.11.0-next.0-dev-1609845921133",
     "js-image-generator": "*",
     "progress": "*",
