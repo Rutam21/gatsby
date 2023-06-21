@@ -24,7 +24,7 @@
     "watch:polyfills": "microbundle -f iife -i src/polyfills.js --no-sourcemap --external=none --watch"
   },
   "dependencies": {
-    "core-js-compat": "3.9.0"
+    "core-js-compat": "3.25.1"
   },
   "files": [
     "dist/"
