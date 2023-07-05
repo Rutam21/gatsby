@@ -24,7 +24,7 @@
     "@babel/generator": "^7.14.3",
     "@babel/helper-plugin-utils": "^7.13.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.14.4",
-    "@babel/preset-env": "^7.14.4",
+    "@babel/preset-env": "^7.22.0",
     "@babel/preset-react": "^7.13.13",
     "@babel/types": "^7.14.4",
     "camelcase-css": "^2.0.1",
