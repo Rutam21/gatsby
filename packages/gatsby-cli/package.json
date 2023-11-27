@@ -33,7 +33,7 @@
     "meant": "^1.0.2",
     "node-fetch": "^2.6.1",
     "opentracing": "^0.14.4",
-    "pretty-error": "^2.1.1",
+    "pretty-error": "^4.0.0",
     "progress": "^2.0.3",
     "prompts": "^2.3.2",
     "redux": "^4.0.5",
