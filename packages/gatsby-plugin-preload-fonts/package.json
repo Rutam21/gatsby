@@ -17,7 +17,7 @@
     "gatsby-core-utils": "^2.8.0-next.0",
     "graphql-request": "^1.8.2",
     "progress": "^2.0.3",
-    "puppeteer": "^3.3.0"
+    "puppeteer": "^21.3.7"
   },
   "devDependencies": {
     "@babel/cli": "^7.14.3",
