@@ -6,7 +6,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "next",
-    "gatsby-plugin-netlify": "next",
+    "gatsby-plugin-netlify": "4.4.0",
     "gatsby-plugin-typography": "next",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
