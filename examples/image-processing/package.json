@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "Florian Kissling <sechskilo@gmail.com>",
   "dependencies": {
-    "gatsby": "next",
+    "gatsby": "5.14.0",
     "gatsby-image": "next",
     "gatsby-plugin-google-analytics": "next",
     "gatsby-plugin-offline": "next",
