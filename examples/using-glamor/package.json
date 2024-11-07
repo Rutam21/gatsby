@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "next",
+    "gatsby": "5.14.0",
     "gatsby-plugin-glamor": "next",
     "gatsby-plugin-google-analytics": "next",
     "gatsby-plugin-offline": "next",
