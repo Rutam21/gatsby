@@ -9,7 +9,7 @@
     "@emotion/styled": "^11.0.0",
     "emotion": "^11.0.0",
     "emotion-server": "^11.0.0",
-    "gatsby": "next",
+    "gatsby": "5.14.0",
     "gatsby-plugin-emotion": "next",
     "gatsby-plugin-google-analytics": "next",
     "gatsby-plugin-offline": "next",
