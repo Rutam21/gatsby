@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "Marcus Ericsson <mericsson@gmail.com> (mericsson.com)",
   "dependencies": {
-    "gatsby": "next",
+    "gatsby": "5.14.0",
     "gatsby-core-utils": "next",
     "gatsby-plugin-image": "next",
     "gatsby-plugin-sharp": "next",
