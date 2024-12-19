@@ -147,7 +147,7 @@
     "string-similarity": "^1.2.2",
     "strip-ansi": "^5.2.0",
     "style-loader": "^2.0.0",
-    "terser-webpack-plugin": "^5.1.1",
+    "terser-webpack-plugin": "^5.3.11",
     "tmp": "^0.2.1",
     "true-case-path": "^2.2.1",
     "type-of": "^2.0.1",
