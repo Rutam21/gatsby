@@ -8,11 +8,11 @@
   },
   "dependencies": {
     "@babel/code-frame": "^7.12.13",
-    "@babel/runtime": "^7.14.0",
+    "@babel/runtime": "^7.26.10",
     "@babel/types": "^7.14.4",
     "ast-types": "^0.14.2",
     "common-tags": "^1.8.0",
-    "react-docgen": "^5.3.1"
+    "react-docgen": "^6.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.14.3",
