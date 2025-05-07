@@ -6,7 +6,7 @@
   "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-transformer-javascript-frontmatter#readme",
   "dependencies": {
     "@babel/parser": "^7.14.4",
-    "@babel/runtime": "^7.14.0",
+    "@babel/runtime": "^7.26.10",
     "@babel/traverse": "^7.14.2",
     "bluebird": "^3.7.2"
   },
