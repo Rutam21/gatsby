@@ -7,7 +7,7 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "@babel/runtime": "^7.14.0",
+    "@babel/runtime": "^7.26.10",
     "lz-string": "^1.4.4",
     "normalize-path": "^3.0.0",
     "npm-package-arg": "^8.1.1",
