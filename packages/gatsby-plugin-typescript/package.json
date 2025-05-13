@@ -15,7 +15,7 @@
     "@babel/plugin-proposal-numeric-separator": "^7.14.2",
     "@babel/plugin-proposal-optional-chaining": "^7.14.2",
     "@babel/preset-typescript": "^7.13.0",
-    "@babel/runtime": "^7.14.0",
+    "@babel/runtime": "^7.26.10",
     "babel-plugin-remove-graphql-queries": "^3.8.0-next.0"
   },
   "devDependencies": {
