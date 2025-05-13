@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-page-utils#readme",
   "dependencies": {
-    "@babel/runtime": "^7.14.0",
+    "@babel/runtime": "^7.26.10",
     "bluebird": "^3.7.2",
     "chokidar": "^3.5.1",
     "fs-exists-cached": "^1.0.0",
