@@ -10,7 +10,7 @@
     "gatsby": "next",
     "gatsby-plugin-jss": "next",
     "gatsby-plugin-styled-components": "next",
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "react": "^16.9.0",
     "react-apollo": "^2.5.8",
     "react-dom": "^16.9.0",
