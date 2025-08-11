@@ -21,7 +21,7 @@
     "fastest-levenshtein": "^1.0.12",
     "glob": "^7.1.6",
     "globby": "^10.0.2",
-    "inquirer": "^6.5.2",
+    "inquirer": "^8.2.7",
     "lodash": "^4.17.21",
     "mkdirp": "^0.5.1",
     "npm-keyword": "^6.1.0"
