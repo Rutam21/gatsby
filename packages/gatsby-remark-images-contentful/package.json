@@ -20,7 +20,7 @@
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.9",
     "is-relative-url": "^3.0.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "semver": "^7.3.2",
     "sharp": "^0.28.0",
     "unist-util-select": "^3.0.4"
